@@ -1,13 +1,8 @@
 
 # EXPERIMENT--01-ALP on fundamental arithmetic and logical operations
-## Name :SANJAI U
+## Name :SANJAI.U
 ## Reg no :212224240145
 ## Date of experiment :19.8.2025
-
-
-
-
-
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
@@ -134,4 +129,4 @@ ret
 <img width="1882" height="1042" alt="Screenshot 2025-08-19 085648" src="https://github.com/user-attachments/assets/9e24393c-ff24-40d1-b6e4-cc765a49efb7" />
 
 ## Result :
- The execution ALP on fundamental arithmetic and logical operations is successfully completed
+ The execution ALP on fundamental arithmetic and logical operations is successfully completed.
